@@ -57,7 +57,6 @@
 
 </div>
 
-> 💡 *Substitua a tabela acima com os nomes e links dos seus apps!*
 
 ---
 
